@@ -1,0 +1,33 @@
+.titulos { 
+    text-align: center;
+}
+.texto{
+   
+    text-align: center;
+    
+   
+}
+.pdf{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}   
+.m{
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+    max-width: 100%;
+    min-width: 300px;
+    border-color: red;
+
+}
+.imgredes{
+    width: 20%;
+    height:20%;
+    margin: auto;
+    display: flex;
+	justify-content: center;
+}

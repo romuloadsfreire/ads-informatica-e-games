@@ -1,2 +1,2 @@
-# ads-informatica-e-games
-Meu site
+# my-site
+ Meu site pessoal
