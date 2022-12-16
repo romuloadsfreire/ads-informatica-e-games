@@ -7,6 +7,7 @@
     <title>Meu site pessoal</title>
     <link rel="stylesheet" href="../public/css/menu.css">
     <link rel="stylesheet" href="../public/css/style.css">
+    <link rel="stylesheet" href="../public/css/form.css" />
 </head>
     
 <body>
@@ -40,7 +41,27 @@
         </div>
         <div class="texto"><img class="imgredes" src="../public/imagens/sapp.png" alt="First slide"><br><h1>(62)995493781</h1><br>
             <img class="imgredes" src="../public/imagens/gmail.png" alt="First slide"></div>
-            <br><h5 class="texto">e-mail: romuloads2018@gmail.com</h5> <br>    
+            <br><h5 class="texto">e-mail: romuloads2018@gmail.com</h5> <br>
+            <h1>Formulário de Contato</h1>
+    <form
+      action="https://formsubmit.co/romuloads2018@gmail.com"
+      method="POST"
+      class="form"
+    >
+      <label for="name">Nome</label>
+      <input type="text" name="name" id="name" required />
+      <label for="email">E-mail</label>
+      <input type="email" name="email" id="email" required />
+      <label for="message">Mensagem</label>
+      <textarea name="message" id="message" required></textarea>
+      <input type="hidden" name="_captcha" value="false" />
+      <input
+        type="hidden"
+        name="_next"
+        value="https://yourdomain.co/thanks.html"
+      />
+      <button type="submit">Enviar</button>
+    </form>    
             
             
        
