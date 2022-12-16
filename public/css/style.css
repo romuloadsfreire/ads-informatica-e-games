@@ -18,10 +18,10 @@
 .m{
     margin: auto;
     padding: 10px;
-    border-radius: 10px;
+    
     max-width: 100%;
     min-width: 300px;
-    border-color: red;
+   
 
 }
 .imgredes{
@@ -31,3 +31,18 @@
     display: flex;
 	justify-content: center;
 }
+.formulario{
+    margin: auto;
+    text-align: center;
+    border-color:rgb(232, 7, 7);
+            border-style:solid;
+            border-width:10px ;
+            width: 80%;
+            border-radius: 10px;
+}
+.input{
+    width: 80%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
