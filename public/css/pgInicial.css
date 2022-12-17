@@ -41,6 +41,8 @@ body{
 }
 .btnForm{
     width: 60%;
+    height: 100px;
+    
     background: rgb(5, 21, 1);
 }
 .esquerda{
