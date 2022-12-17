@@ -52,13 +52,13 @@
     }
    
    .menu ul ul li a {
-    background-color: #069;
+    background-color: hwb(197 93% 4%);
     }
    
    /*Criando o label */
     label[for=”bt_menu”]{
     padding: 5px;
-    background-color: #222;
+    background-color: rgb(245, 241, 241);
     color: #fff;
     font-family: Arial;
     text-align: center;
