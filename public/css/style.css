@@ -45,4 +45,20 @@
     margin-right: 10px;
     margin-left: 10px;
 }
-
+.ajustMenu{
+    max-width: 90%;
+    min-width: 280px;
+}
+.caixaCarrocel{
+    max-width: 50%;
+    min-width: 280px;
+   
+}
+.foto{
+  max-width: 50%;
+  margin: auto;
+}
+.toiota{
+  
+    
+}
