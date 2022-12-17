@@ -1,0 +1,64 @@
+.titulos { 
+    text-align: center;
+}
+.texto{
+   
+    text-align: center;
+    
+   
+}
+.pdf{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}   
+.m{
+    margin: auto;
+    padding: 10px;
+    
+    max-width: 100%;
+    min-width: 300px;
+   
+
+}
+.imgredes{
+    width: 20%;
+    height:20%;
+    margin: auto;
+    display: flex;
+	justify-content: center;
+}
+.formulario{
+    margin: auto;
+    text-align: center;
+    border-color:rgb(232, 7, 7);
+            border-style:solid;
+            border-width:10px ;
+            width: 80%;
+            border-radius: 10px;
+}
+.input{
+    width: 80%;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.ajustMenu{
+    max-width: 90%;
+    min-width: 280px;
+}
+.caixaCarrocel{
+    max-width: 50%;
+    min-width: 280px;
+   
+}
+.foto{
+  max-width: 50%;
+  margin: auto;
+}
+.toiota{
+  
+    
+}

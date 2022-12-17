@@ -12,15 +12,17 @@
   
 }
 .imgPgInicial{
-    width:98%;
+    
     border-style: solid;
     border-radius: 10px;
+    
  
 }
 .base{
     margi: 10px;
     background: blue;
     margin: 20px;
+    text-align: center;
 }
 p{
     font-size: 15px;
@@ -41,8 +43,7 @@ body{
 }
 .btnForm{
     width: 60%;
-    height: 100px;
-    
+    height: 70px;
     background: rgb(5, 21, 1);
 }
 .esquerda{
