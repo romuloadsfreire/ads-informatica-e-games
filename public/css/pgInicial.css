@@ -21,7 +21,7 @@
  
 }
 .base{
-    margi: 10px;
+    margin: 10px;
     background: blue;
     margin: 20px;
     text-align: center;
@@ -71,4 +71,46 @@ body{
 .txt2{
     color: aliceblue;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, 
+}
+
+.imgformacao{
+    width: 80%;
+   
+   
+    height: 30%;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px; 
+    margin-right: 40px;
+}
+.imgesquerda1{
+    width: 40%;
+     float: left; 
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.imgdireita{
+    width: 80%;
+    float: right;
+    margin-top: 40px;
+    height: 250px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px; 
+    margin-right: 40px;
+}
+.imgesquerda{
+    width: 80%;
+     float: left; 
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 10px;
+    height: 250px;
+    margin-top: 20px;
+    margin-left: 40px;
 }
